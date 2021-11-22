@@ -88,10 +88,10 @@ If your `$PATH` does not hold `~/.local/bin`, you can expand it in your `~/.prof
 
 ```
 Usage: clahe.py [-h] [-i FILENAMEINPUT] [-o FILENAMEOUTPUT] [-c CLIPLIMIT]
-                [-sv] [-si SHOWIMAGES <0-b2><!0>] [-v VERBOSE]
+                [-sv] [-si SHOWIMAGES <0-b2><!0>]
                 [-t TILESIZE !8x8 TILESIZE !8x8]
 
-Perform basic image processing on input by using CLAHE methodology to generate
+Perform basic image processing on input by using CLAHE algorithm to generate
 output.
 
 optional arguments:
@@ -105,8 +105,6 @@ optional arguments:
   -sv, --save-images    Save images
   -si SHOWIMAGES <0-b2><!0>, --show-images SHOWIMAGES <0-b2><!0>
                         Show images
-  -v VERBOSE, --verbose VERBOSE
-                        Set verbose level
   -t TILESIZE !8x8 TILESIZE !8x8, --tile-size TILESIZE !8x8 TILESIZE !8x8
                         Tile size
 ```
