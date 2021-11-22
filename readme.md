@@ -10,10 +10,6 @@ This procedural Python script filters input images using CLAHE algorithm accordi
 |:-----:|:-----:|:-------:|:------:|
 | ![Input](readme-input.jpg) | ![Light](readme-clahe-light.jpg) | ![Default](readme-clahe-default.jpg) | ![Strong](readme-clahe-strong.jpg) |
 
-### Results
-
-![Mask filter showcase](showcase.jpg)
-
 ## Roadmap
 
 Currently there is no further development planned.
