@@ -9,6 +9,7 @@ This procedural Python script filters input images using CLAHE algorithm accordi
 | Input | Light | Default | Strong |
 |:-----:|:-----:|:-------:|:------:|
 | ![Input](readme-input.jpg) | ![Light](readme-clahe-light.jpg) | ![Default](readme-clahe-default.jpg) | ![Strong](readme-clahe-strong.jpg) |
+|  | `-c 0.05 -t 8 8` | `-c 2.0 -t 8 8` | `-c 6.0 -t 32 32` |
 
 ## Roadmap
 
